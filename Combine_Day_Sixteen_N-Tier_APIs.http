@@ -1,0 +1,6 @@
+@Combine_Day_Sixteen_N_Tier_APIs_HostAddress = http://localhost:5020
+
+GET {{Combine_Day_Sixteen_N_Tier_APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
