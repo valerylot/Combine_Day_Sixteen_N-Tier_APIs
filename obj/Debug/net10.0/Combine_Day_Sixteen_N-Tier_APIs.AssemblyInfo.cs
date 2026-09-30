@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Combine_Day_Sixteen_N-Tier_APIs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+653c1024397891376beabc469d3c96e33139319d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Combine_Day_Sixteen_N-Tier_APIs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Combine_Day_Sixteen_N-Tier_APIs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

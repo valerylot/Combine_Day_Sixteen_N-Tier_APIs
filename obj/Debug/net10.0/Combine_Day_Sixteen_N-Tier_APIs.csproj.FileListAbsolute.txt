@@ -145,3 +145,4 @@
 /Users/valerylot/Desktop/CodeStack Combine /Day 16/Combine_Day_Sixteen_N-Tier_APIs/obj/Debug/net10.0/Combine_Day_Sixteen_N-Tier_APIs.pdb
 /Users/valerylot/Desktop/CodeStack Combine /Day 16/Combine_Day_Sixteen_N-Tier_APIs/obj/Debug/net10.0/Combine_Day_Sixteen_N-Tier_APIs.genruntimeconfig.cache
 /Users/valerylot/Desktop/CodeStack Combine /Day 16/Combine_Day_Sixteen_N-Tier_APIs/obj/Debug/net10.0/ref/Combine_Day_Sixteen_N-Tier_APIs.dll
+/Users/valerylot/Desktop/CodeStack Combine /Day 16/Combine_Day_Sixteen_N-Tier_APIs/obj/Debug/net10.0/Combine_Day_Sixteen_N-Tier_APIs.sourcelink.json
